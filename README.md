@@ -1,5 +1,3 @@
-# ouu
-
 **Title**: Optimization Under Uncertainty with Applications in Wind Energy
 
 **Purpose**: Introduce users to optimization under uncertainty (with a particularly focus on using polynomial chaos for uncertainty quantification).  Assumes familiarity with basic engineering optimization.
